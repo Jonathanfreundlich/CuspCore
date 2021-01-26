@@ -9,8 +9,6 @@ The different steps assumed by the model are illustrated below: (1) the initial 
 </p>
 
 <p align="center">
-<img src="images/freundlich_S17_fig1.pdf"  width=30%>
-<img src="images/freundlich_S17_fig2.pdf"  width=30%>
-<img src="images/freundlich_S17_fig3.pdf"  width=30%>
+<img src="images/cuspcore.png"  width=70%>
 </p>
 
