@@ -1,7 +1,7 @@
 <h2> CuspCore: a model for core formation in dark matter haloes and ultra-diffuse galaxies by outflow episodes </h2>
 
 <p align="justify">
-This python program implements the model presented in <a href="https://ui.adsabs.harvard.edu/abs/2020MNRAS.491.4523F/abstract"  style="text-decoration:none" class="type1">Freundlich et al. 2020a</a> (and summarized a href="https://ui.adsabs.harvard.edu/abs/2019sf2a.conf..477F/abstract"  style="text-decoration:none" class="type1">here</a>) for the response of a dissipationless spherical system to an instantaneous mass change at its centre. This model is meant to describe the formation of flat cores in dark matter haloes and ultra-diffuse galaxies from feedback-driven outflow episodes. The halo response is divided into an instantaneous change of potential at contant velocities followed by an energy-conserving relaxation. 
+This python program implements the model presented in <a href="https://ui.adsabs.harvard.edu/abs/2020MNRAS.491.4523F/abstract"  style="text-decoration:none" class="type1">Freundlich et al. 2020a</a> (and summarized <a href="https://ui.adsabs.harvard.edu/abs/2019sf2a.conf..477F/abstract"  style="text-decoration:none" class="type1">here</a>) for the response of a dissipationless spherical system to an instantaneous mass change at its centre. This model is meant to describe the formation of flat cores in dark matter haloes and ultra-diffuse galaxies from feedback-driven outflow episodes. The halo response is divided into an instantaneous change of potential at contant velocities followed by an energy-conserving relaxation. 
 </p>
 
 <p align="justify">
@@ -9,7 +9,7 @@ The different steps assumed by the model are illustrated below: (1) the initial 
 </p>
 
 <p align="center">
-<img src="images/cuspcore.png"  width=50%>
+<img src="images/cuspcore.png"  width=60%>
 </p>
 
 
